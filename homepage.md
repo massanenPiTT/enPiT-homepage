@@ -1,4 +1,4 @@
-    <font color="ForestGreen"></font>
+    <body>
     <h1 style="color:white;background-color:green">人生のログインボーナス！！</h1>
     <h2 style="color:white;>コンとは？</h2>
                <p>説明</p>
@@ -10,4 +10,4 @@
                <p>説明</p>
     <h6 style="color:white;>2</h6>
                <p>説明</p>
-  　
+  　</body>
